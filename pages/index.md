@@ -23,8 +23,7 @@ and includes all the features that I might want.
 
 ## Features
 
-What are these features? You should see the {% include doc.html name="Getting Started" path="getting-started" %}
-guide for a complete summary. Briefly:
+What are these features? You should see the {% include doc.html name="Getting Started" path="getting-started" %} guide for a complete summary. Briefly:
 
  - *User interaction* including consistent permalinks, links to ask questions via GitHub issues, and edit the file on GitHub directly.
  - *Search* across posts, documentation, and other site pages, with an ability to exclude from search.
